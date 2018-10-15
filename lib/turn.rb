@@ -38,4 +38,5 @@ def turn(board)
     move(board,index,token)
   else
     turn(board)
+  end
 end
